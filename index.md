@@ -7,3 +7,11 @@
 
 # Solar System Image
 ![Image of planets in the solar system](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Planet_collage_to_scale.jpg/330px-Planet_collage_to_scale.jpg)
+
+# Outputting Hello World in Bash
+### Step 1
+##### The first step is to use echo to print 'Hello World'
+
+``` bash
+echo Hello World
+```
