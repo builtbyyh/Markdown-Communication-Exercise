@@ -15,3 +15,8 @@
 ``` bash
 echo Hello World
 ```
+
+# Requirements List
+- [ ] Windows OS 10/11
+- [ ] 16GB RAM
+- [ ] WSL installed on machine
