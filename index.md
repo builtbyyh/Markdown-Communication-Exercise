@@ -1,4 +1,4 @@
-# Markup
+# Markdown
 
 ## Testing Headers
 ### Testing Headers
